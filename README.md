@@ -46,6 +46,7 @@ Part of speech or POS is a grammatical role that explains how a particular word 
 6.	Preposition
 7.	Conjunction
 8.	Interjection
+   
 Part of speech tagging is the process of assigning a POS tag to each token depending on its usage in the sentence. POS tags are useful for assigning a syntactic category like noun or verb to each word. In spaCy, POS tags are available as an attribute on the Token objec.
 
 ## 9.	Visualization: Using displaCy:
