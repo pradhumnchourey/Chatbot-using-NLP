@@ -7,10 +7,10 @@ The concepts used in the ChatBot are explained below:
 NLP is the study of letting computers understand human languages. Without NLP, human language sentences are just a series of meaningless symbols to computers. Computers don’t recognize the words and don’t understand the grammars. NLP can be regard as a “translator”, who will translate human languages to computer understandable information. Traditionally, users need to follow well-defined procedures accurately, in order to interact with computers. For example, in Linux systems, all commands must be precise. A single replace of a | (pipe) character or even a space can have significant difference. However, the emergence of NLP is changing the way of interacting. Apple Siri and Microsoft Cortana have made it possible to give command in everyday languages and is changing the way of interacting. 
 NLP is a subfield of artificial intelligence and is concerned with interactions between computers and human languages. NLP is the process of analyzing, understanding, and deriving meaning from human languages for computers.
 NLP helps you extract insights from unstructured text and has several use cases, such as:
-•	Automatic summarization
-•	Named entity recognition
-•	Question answering systems
-•	Sentiment analysis
+Automatic summarization
+Named entity recognition
+Question answering systems
+Sentiment analysis
 
 ## 2.	Natural Language Processing With spaCy in Python:
 spaCy is a free and open-source library for Natural Language Processing (NLP) in Python with a lot of in-built capabilities. It’s written in Cython and is designed to build information extraction or natural language understanding systems. It’s built for production use and provides a concise and user-friendly API.
